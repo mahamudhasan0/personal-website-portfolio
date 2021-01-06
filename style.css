@@ -50,10 +50,9 @@ h1{
 }
 
 .first-area{
-    width:40%;
+    display: flex;
     float: left;
-    
-    margin-left: 5%;
+     margin-left: 5%;
     padding-left: 2%;
 
 }
